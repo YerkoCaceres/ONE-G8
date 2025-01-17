@@ -1,5 +1,4 @@
-# ONE-G8 2025
-Challenge
+# ONE-G8 2025 | Challenge 01
   Practicando Lógica de Programación: Challenge Amigo secreto
 
 

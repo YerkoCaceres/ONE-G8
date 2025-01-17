@@ -1,4 +1,14 @@
 # ONE-G8 2025
-Curso Oracle ONE G8
+Challenge
+  Practicando Lógica de Programación: Challenge Amigo secreto
 
-Repositorio destinado para los challenge o desafios del curso
+
+# app.js
+Variables a ajustar segun sus preferencias:
+    const largoLista = 10; '/
+    const largoNombre = 15;
+    const minParticipantes = 2;
+
+    largoLista : Largo maximo para agregar amigos a la lista.
+    largoNombre : Largo maximo de caracteres que puede tener el nombre del amigo a agregar.
+    minParticipantes : Minimo de participantes para poder realizar el sorteo.
